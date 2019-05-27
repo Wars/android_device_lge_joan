@@ -12,3 +12,5 @@ $(call inherit-product, build/target/product/full.mk)
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
 PRODUCT_NAME := full_joan_nao_us
 PRODUCT_DEVICE := joan
+
+PRODUCT_COPY_FILES += device/lge/joan/twrp.fstab:recovery/root/etc/twrp.fstab

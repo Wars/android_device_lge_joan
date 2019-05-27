@@ -34,3 +34,10 @@ BOARD_FLASH_BLOCK_SIZE := 0x40000
 TARGET_PREBUILT_KERNEL := device/lge/joan/kernel
 
 BOARD_HAS_NO_SELECT_BUTTON := true
+
+
+# Twrp
+#  Theme 
+TW_THEME := landscape_hdpi #portrait_hdpi
+
+RECOVERY_SDCARD_ON_DATA := true # sdcard support
