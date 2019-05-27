@@ -1,3 +1,3 @@
-add_lunch_combo omni_dumpling-user
-add_lunch_combo omni_dumpling-userdebug
-add_lunch_combo omni_dumpling-eng
+add_lunch_combo omni_joan-user
+add_lunch_combo omni_joan-userdebug
+add_lunch_combo omni_joan-eng
